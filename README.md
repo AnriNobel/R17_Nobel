@@ -18,8 +18,20 @@ List All Data ( 100 data )
 **Result**
 ![image](https://github.com/AnriNobel/R17_Nobel/assets/38330633/e357cb1a-ef1d-44f0-9547-9285158b32be)
 
+
+
+
 **Edit**
 ![image](https://github.com/AnriNobel/R17_Nobel/assets/38330633/a1bb0de0-21d3-4bc9-b555-f82bd5bdbf98)
+
+**Result**
+![image](https://github.com/AnriNobel/R17_Nobel/assets/38330633/0dbf30de-7cd8-4bc8-af5c-a0109024caea)
+
+
+**Delete**
+![image](https://github.com/AnriNobel/R17_Nobel/assets/38330633/966dc7d2-330a-458f-a461-322ed52f6188)
+
+
 
 
 
