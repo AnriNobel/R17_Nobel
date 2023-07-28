@@ -6,6 +6,10 @@ for the results of this work, I apologize if there are still a lot less than per
 
 I hope it can be considered
 
+**Install**
+npm install -g bower
+
+
 
 List All Data ( 100 data )
 
