@@ -4,6 +4,8 @@ Test Candidate Web developer R17 Group
 for the results of this work, I apologize if there are still a lot less than perfect 
 <img src="https://github.com/AnriNobel/R17_Nobel/assets/38330633/0c964e58-024a-4f5a-bd2d-64fd5ccf6845" width="30" />
 
+I hope it can be considered
+
 
 List All Data ( 100 data )
 
