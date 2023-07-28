@@ -1,7 +1,8 @@
 # R17_Nobel
 Test Candidate Web developer R17 Group
 
-for the results of this work, I apologize if there are still a lot less than perfect ![Folded-Hands-Emoji](https://github.com/AnriNobel/R17_Nobel/assets/38330633/0c964e58-024a-4f5a-bd2d-64fd5ccf6845)
+for the results of this work, I apologize if there are still a lot less than perfect ![Folded-Hands-Emoji]
+<img src="https://github.com/AnriNobel/R17_Nobel/assets/38330633/0c964e58-024a-4f5a-bd2d-64fd5ccf6845" width="20" />
 
 
 List All Data ( 100 data )
